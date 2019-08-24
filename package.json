@@ -1,0 +1,16 @@
+{
+  "name": "badui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "jeffe <andrejeff.leevi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "preact": "^8.5.2"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.3"
+  }
+}
